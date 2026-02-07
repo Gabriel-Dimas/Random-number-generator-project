@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Sorteador de  Numeros. </h1>
 
 <h2>🌐 Sobre</h2>
 <p>Projeto simples que sorteia numeros. Onde você escolhe quantos numeros, de que numero ate outro.</p>
